@@ -1,0 +1,67 @@
+[
+    {
+        "city_id": 1,
+        "restaurant_name":"Chicken Republic",
+        "cuisine":"Mexican",
+        "min_rating": 23},
+    {
+        "city_id": 1,
+        "restaurant_name": "La Casa Mexicana",
+        "cuisine": "Mexican",
+        "min_rating": 4.5
+      },
+      {
+        "city_id": 2,
+        "restaurant_name": "Taco Fiesta",
+        "cuisine": "Mexican",
+        "min_rating": 4.2
+      },
+      {
+        "city_id": 3,
+        "restaurant_name": "Salsa Express",
+        "cuisine": "Mexican",
+        "min_rating": 4.7
+      },
+      {
+        "city_id": 4,
+        "restaurant_name": "Burrito Brothers",
+        "cuisine": "Mexican",
+        "min_rating": 4.3
+      },
+      {
+        "city_id": 5,
+        "restaurant_name": "Mexicali Grill",
+        "cuisine": "Mexican",
+        "min_rating": 4.6
+      },
+      {
+        "city_id": 6,
+        "restaurant_name": "Pizzeria Italia",
+        "cuisine": "Italian",
+        "min_rating": 4.2
+      },
+      {
+        "city_id": 7,
+        "restaurant_name": "Pasta Palace",
+        "cuisine": "Italian",
+        "min_rating": 4.4
+      },
+      {
+        "city_id": 8,
+        "restaurant_name": "Ramen House",
+        "cuisine": "Japanese",
+        "min_rating": 4.6
+      },
+      {
+        "city_id": 9,
+        "restaurant_name": "Curry Corner",
+        "cuisine": "Indian",
+        "min_rating": 4.7
+      },
+      {
+        "city_id": 10,
+        "restaurant_name": "Chopstick Kitchen",
+        "cuisine": "Chinese",
+        "min_rating": 4.5
+      }
+]
